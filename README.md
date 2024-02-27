@@ -2,6 +2,8 @@
 
 These are the files we use to make our Training Target for our The Art Of Fault Injection (TAoFI) training.
 
+We typically use [JLCPCB](https://jlcpcb.com/)'s PCB & PCBA services.
+
 ## Board
 
 ![Raelize Training Target v1.3](files/board.png)
