@@ -8,7 +8,7 @@ These are the files we use to make our Training Target for our The Art Of Fault 
 
 ## Schematic
 
-![Schematics for Raelize Training Target v1.3](files/board.png)
+![Schematics for Raelize Training Target v1.3](files/schematic.png)
 
 ## Files
 
